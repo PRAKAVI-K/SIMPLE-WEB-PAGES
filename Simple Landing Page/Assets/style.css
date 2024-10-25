@@ -1,0 +1,70 @@
+
+*{
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0;
+}
+  body {
+  background-image: url(Image/img\ task8.jfif);
+  color: white;
+}
+h2 {
+  font-size: 45px;
+  padding-left: 50px;
+  margin-top:20px;
+}
+ul li {
+  display: inline;
+  margin-right: 50px;
+  
+}
+.contain {
+  display: flex;
+  justify-content: space-between;
+ 
+  
+}
+nav {
+  padding-top: 27px;
+  
+   
+  font-size: 22px;
+}
+nav button {
+  color: rgb(22, 48, 247);
+  border-radius: 7px;
+  height: 35px;
+  width: 59px;
+  font-weight: 900;
+  border-color: transparent;
+}
+/* .container{
+  border: 0;
+} */
+.container h1{
+   font-size: 140px;
+   width: 20vh;
+   padding-left:50px;
+   margin-top: 300px;
+}
+.container p{
+  font-size: 43px;
+   width:100vh;
+    padding-left:50px;
+    margin-top: 20px;
+    color: rgb(241, 238, 238);
+    font-weight: normal;
+
+}
+.container button{
+  font-size: 23px;
+  border-color:transparent;
+ margin-left: 50px;
+ color: blue;
+ border-radius: 25px;
+ font-weight: 900;
+ text-transform: uppercase;
+ padding: 10px;
+ margin-top: 20px;
+
+}
